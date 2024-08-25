@@ -8,7 +8,7 @@ Demo 📸
 ![Screenshot (168)](https://github.com/user-attachments/assets/ff1189cb-c560-4e8b-a792-cd25580fe6ac)
 
 
-Live Demo:[https://random-quote-machine1-9s0epmq72-zainab-behzads-projects.vercel.app]
+Live Demo:[(https://random-quote-machine1-9s0epmq72-zainab-behzads-projects.vercel.app)]
 
 
 
